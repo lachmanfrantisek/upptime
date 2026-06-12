@@ -4,19 +4,19 @@
     "url": "https://scoutcloud.eu/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/scoutcloud.eu.ico",
     "slug": "scoutcloud-nextcloud",
-    "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
-    "time": 564,
-    "timeDay": 564,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "status": "up",
+    "uptime": "92.97%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "92.97%",
+    "time": 584,
+    "timeDay": 584,
+    "timeWeek": 584,
+    "timeMonth": 584,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2026-06-12": 1
+      "2026-06-12": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://lachmanovi.eu/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/lachmanovi.eu.ico",
     "slug": "lachmanovi-nextcloud",
-    "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
-    "time": 565,
-    "timeDay": 565,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "93.13%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "93.13%",
+    "time": 583,
+    "timeDay": 583,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2026-06-12": 1
+      "2026-06-12": 9
     }
   },
   {
