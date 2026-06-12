@@ -1,7 +1,7 @@
 url: https://scoutcloud.eu/status.php
-status: down
-code: 502
-responseTime: 331
-lastUpdated: 2026-06-12T10:53:45.199Z
+status: up
+code: 200
+responseTime: 643
+lastUpdated: 2026-06-12T11:02:51.844Z
 startTime: 2026-06-12T08:53:10.425Z
 generator: Upptime <https://github.com/upptime/upptime>
