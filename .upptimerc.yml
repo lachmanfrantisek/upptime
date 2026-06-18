@@ -29,6 +29,41 @@ sites:
   - name: Beszel Monitor
     url: https://monitor.lachmanovi.eu
 
+  - name: ScoutCloud DAV
+    url: https://scoutcloud.eu/remote.php/dav/
+    method: PROPFIND
+    headers:
+      - "Authorization: Basic $NC_SCOUT_AUTH"
+      - "Depth: 0"
+    expectedStatusCodes:
+      - 207
+    __dangerous__body_down_if_text_missing: "multistatus"
+
+  - name: Family DAV
+    url: https://lachmanovi.eu/remote.php/dav/
+    method: PROPFIND
+    headers:
+      - "Authorization: Basic $NC_FAMILY_AUTH"
+      - "Depth: 0"
+    expectedStatusCodes:
+      - 207
+    __dangerous__body_down_if_text_missing: "multistatus"
+
+  - name: ScoutCloud Login
+    url: https://scoutcloud.eu/login
+    expectedStatusCodes:
+      - 200
+
+  - name: Family Login
+    url: https://lachmanovi.eu/login
+    expectedStatusCodes:
+      - 200
+
+  - name: ntfy Notifications
+    url: https://ntfy.lachmanovi.eu/v1/health
+    expectedStatusCodes:
+      - 200
+
 status-website:
   cname: status.lachmanovi.eu
   name: Server Status
