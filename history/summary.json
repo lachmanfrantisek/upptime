@@ -5,206 +5,228 @@
     "icon": "https://icons.duckduckgo.com/ip3/scoutcloud.eu.ico",
     "slug": "scoutcloud-nextcloud",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 709,
     "timeDay": 514,
     "timeWeek": 672,
     "timeMonth": 709,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 54
+    }
   },
   {
     "name": "Lachmanovi (Nextcloud)",
     "url": "https://lachmanovi.eu/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/lachmanovi.eu.ico",
     "slug": "lachmanovi-nextcloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 684,
     "timeDay": 506,
     "timeWeek": 687,
     "timeMonth": 684,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 49
+    }
   },
   {
     "name": "Home Assistant",
     "url": "https://home.r.lachmanovi.eu",
     "icon": "https://icons.duckduckgo.com/ip3/home.r.lachmanovi.eu.ico",
     "slug": "home-assistant",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 687,
     "timeDay": 655,
     "timeWeek": 624,
     "timeMonth": 687,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 44
+    }
   },
   {
     "name": "Metalignum (WordPress)",
     "url": "https://metalignum.cz",
     "icon": "https://icons.duckduckgo.com/ip3/metalignum.cz.ico",
     "slug": "metalignum-word-press",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1919,
     "timeDay": 1166,
     "timeWeek": 1361,
     "timeMonth": 1919,
     "timeYear": 1919,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 39
+    }
   },
   {
     "name": "Collabora Office",
     "url": "https://office.scoutcloud.eu",
     "icon": "https://icons.duckduckgo.com/ip3/office.scoutcloud.eu.ico",
     "slug": "collabora-office",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 644,
     "timeDay": 475,
     "timeWeek": 582,
     "timeMonth": 644,
     "timeYear": 644,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 34
+    }
   },
   {
     "name": "Cockpit",
     "url": "https://cockpit.lachmanovi.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cockpit.lachmanovi.eu.ico",
     "slug": "cockpit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1223,
     "timeDay": 1189,
     "timeWeek": 1205,
     "timeMonth": 1223,
     "timeYear": 1223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 29
+    }
   },
   {
     "name": "Beszel Monitor",
     "url": "https://monitor.lachmanovi.eu",
     "icon": "https://icons.duckduckgo.com/ip3/monitor.lachmanovi.eu.ico",
     "slug": "beszel-monitor",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 658,
     "timeDay": 521,
     "timeWeek": 671,
     "timeMonth": 658,
     "timeYear": 658,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 24
+    }
   },
   {
     "name": "ScoutCloud DAV",
     "url": "https://scoutcloud.eu/remote.php/dav/",
     "icon": "https://icons.duckduckgo.com/ip3/scoutcloud.eu.ico",
     "slug": "scout-cloud-dav",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 782,
     "timeDay": 612,
     "timeWeek": 737,
     "timeMonth": 782,
     "timeYear": 782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 20
+    }
   },
   {
     "name": "Family DAV",
     "url": "https://lachmanovi.eu/remote.php/dav/",
     "icon": "https://icons.duckduckgo.com/ip3/lachmanovi.eu.ico",
     "slug": "family-dav",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 797,
     "timeDay": 838,
     "timeWeek": 728,
     "timeMonth": 797,
     "timeYear": 797,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 15
+    }
   },
   {
     "name": "ScoutCloud Login",
     "url": "https://scoutcloud.eu/login",
     "icon": "https://icons.duckduckgo.com/ip3/scoutcloud.eu.ico",
     "slug": "scout-cloud-login",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 910,
     "timeDay": 720,
     "timeWeek": 829,
     "timeMonth": 910,
     "timeYear": 910,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 10
+    }
   },
   {
     "name": "Family Login",
     "url": "https://lachmanovi.eu/login",
     "icon": "https://icons.duckduckgo.com/ip3/lachmanovi.eu.ico",
     "slug": "family-login",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 876,
     "timeDay": 713,
     "timeWeek": 756,
     "timeMonth": 876,
     "timeYear": 876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 5
+    }
   },
   {
     "name": "ntfy Notifications",
     "url": "https://ntfy.lachmanovi.eu/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.lachmanovi.eu.ico",
     "slug": "ntfy-notifications",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,6 +235,8 @@
     "timeWeek": 569,
     "timeMonth": 648,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-30": 0
+    }
   }
 ]
