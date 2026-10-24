@@ -70,24 +70,24 @@
     "url": "https://metalignum.cz",
     "icon": "https://icons.duckduckgo.com/ip3/metalignum.cz.ico",
     "slug": "metalignum-word-press",
-    "status": "down",
+    "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.21%",
-    "time": 1788,
-    "timeDay": 2176,
-    "timeWeek": 1874,
-    "timeMonth": 1841,
-    "timeYear": 1788,
+    "time": 1792,
+    "timeDay": 2252,
+    "timeWeek": 1915,
+    "timeMonth": 1856,
+    "timeYear": 1792,
     "dailyMinutesDown": {
       "2026-06-30": 80,
       "2026-07-19": 61,
       "2026-10-12": 24,
       "2026-10-14": 651,
       "2026-10-13": 710,
-      "2026-10-24": 0
+      "2026-10-24": 1
     }
   },
   {
