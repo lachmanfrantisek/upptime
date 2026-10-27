@@ -70,9 +70,9 @@
     "url": "https://metalignum.cz",
     "icon": "https://icons.duckduckgo.com/ip3/metalignum.cz.ico",
     "slug": "metalignum-word-press",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.23%",
@@ -86,7 +86,8 @@
       "2026-07-19": 61,
       "2026-10-12": 24,
       "2026-10-14": 651,
-      "2026-10-13": 710
+      "2026-10-13": 710,
+      "2026-10-27": 0
     }
   },
   {
