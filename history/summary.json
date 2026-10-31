@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/scoutcloud.eu.ico",
     "slug": "scoutcloud-nextcloud",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 750,
     "timeDay": 714,
     "timeWeek": 833,
@@ -70,9 +70,9 @@
     "url": "https://metalignum.cz",
     "icon": "https://icons.duckduckgo.com/ip3/metalignum.cz.ico",
     "slug": "metalignum-word-press",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.25%",
@@ -86,7 +86,8 @@
       "2026-07-19": 61,
       "2026-10-12": 24,
       "2026-10-14": 651,
-      "2026-10-13": 710
+      "2026-10-13": 710,
+      "2026-10-31": 0
     }
   },
   {
