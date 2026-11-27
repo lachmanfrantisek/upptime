@@ -48,21 +48,22 @@
     "url": "https://home.r.lachmanovi.eu",
     "icon": "https://icons.duckduckgo.com/ip3/home.r.lachmanovi.eu.ico",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 752,
-    "timeDay": 1186,
-    "timeWeek": 782,
-    "timeMonth": 828,
+    "timeDay": 959,
+    "timeWeek": 776,
+    "timeMonth": 825,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2026-06-30": 84,
       "2026-07-19": 71,
-      "2026-10-12": 29
+      "2026-10-12": 29,
+      "2026-11-27": 0
     }
   },
   {
@@ -79,7 +80,7 @@
     "time": 1818,
     "timeDay": 2437,
     "timeWeek": 1675,
-    "timeMonth": 1890,
+    "timeMonth": 1900,
     "timeYear": 1818,
     "dailyMinutesDown": {
       "2026-06-30": 80,
